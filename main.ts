@@ -66,20 +66,6 @@ input.onButtonPressed(Button.AB, function (){
         . # . . .
         # . . . .
         `)
-        basic.showLeds(`
-        . . # . .
-        . # . . .
-        # # # # #
-        . # . . .
-        . . # . .
-        `)
-        basic.showLeds(`
-        # # # . .
-        # # . . .
-        # . # . .
-        . . . # .
-        . . . . #
-        `)
     }
     else if (arrowChoice == 3){
        basic.showLeds(`
